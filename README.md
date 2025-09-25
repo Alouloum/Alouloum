@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Mohamed+Aloulou;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I%27m+Mohamed+Aloulou;Welcome+to+my+GitHub+Profile%21)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👨‍💻 About Me  
 I’m an AI research student with a strong background in mathematics, machine learning.
@@ -23,7 +23,7 @@ Most recently, I completed a research internship at Real Analytics (Birmingham C
 
 ## 🎓 Education  
 - **PSL Research University** — Data Science & AI (M2 IASD)
-- **École Polytechnique** — Mathematics & Computer Science  
+- **École Polytechnique** — Mathematics & Computer Science (X22 PA MAP) 
 
 ---
 
