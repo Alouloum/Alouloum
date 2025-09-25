@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I%27m+Mohamed+Aloulou;Welcome+to+my+GitHub+Profile%21)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 👨‍💻 About Me  
 I’m an AI research student with a strong background in mathematics, machine learning.
 I am currently pursuing the IASD Master’s program as my final year at École Polytechnique.
